@@ -1,7 +1,3 @@
-Here’s an expanded and more detailed version of the README file for your **Bank Account System**:
-
----
-
 # Bank Account System
 
 ## Overview
